@@ -1,0 +1,1 @@
+This repository contains the full source to the Dotabuff Pro Rating Algorithm (DBPR) in PHP.
